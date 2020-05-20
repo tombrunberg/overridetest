@@ -2,6 +2,10 @@
     "name": "tombrunberg/overridetest",
     "license": "GPL-3.0-or-later",
     "description": "versionphp",
-    "type": "project",
-    "homepage": "https://tombrunberg.com"
+    "homepage": "https://tombrunberg.com",
+
+    "type": "moodle-corechanges",
+    "require": {
+        "composer/installers": "~1.0"
+    }
 }
